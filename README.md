@@ -44,8 +44,13 @@ http://www.testsigma.com
 # Resources
 
 https://medium.com/appdiff/test-autonomy-levels-7de7967d030e
+
 https://www.gartner.com/doc/reprints?id=1-25Z5AK9P&ct=210506&st=sb
+
 https://www.pnsqc.org/wp-content/uploads/2018/09/38-Santiago-AI-Driven-Test-Generation.pdf
+
 https://sersc.org/journals/index.php/IJFGCN/article/view/5815/3604
+
 https://medium.com/appdiff/test-autonomy-levels-7de7967d030e
+
 https://www.coursera.org/learn/machine-learning
