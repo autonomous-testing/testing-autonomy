@@ -204,10 +204,6 @@ https://www.functionize.com/
 
 https://testrigor.com/
 
-https://www.test.ai/
-
-https://www.testim.io/
-
 https://apptest.ai/
 
 https://www.eggplantsoftware.com/
