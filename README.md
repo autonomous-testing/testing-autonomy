@@ -211,7 +211,7 @@ https://www.eggplantsoftware.com/
 https://www.aifex.fr/
 
 
-# Resources
+# Resources & interesting sources
 
 https://medium.com/appdiff/test-autonomy-levels-7de7967d030e
 
@@ -224,3 +224,5 @@ https://sersc.org/journals/index.php/IJFGCN/article/view/5815/3604
 https://medium.com/appdiff/test-autonomy-levels-7de7967d030e
 
 https://www.coursera.org/learn/machine-learning
+
+https://testautomationu.applitools.com/testing-machine-learning-models/
