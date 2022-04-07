@@ -214,7 +214,7 @@ https://www.aifex.fr/
 
 https://youtu.be/R-S94tYmH04
 
-[![Autonomous Visual Regression Testing](https://img.youtube.com/vi/R-S94tYmH04/0.jpg)](https://img.youtube.com/vi/R-S94tYmH04/0.jpg)
+[![Autonomous Visual Regression Testing](https://img.youtube.com/vi/R-S94tYmH04/0.jpg)](https://youtu.be/R-S94tYmH04)
 
 
 # Resources & interesting sources
