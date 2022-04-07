@@ -1,7 +1,15 @@
+# Autonomous testing
+
+> By the end of 2025, 30% of organizations will have implemented an autonomous automation strategy and will outperform competitors in quality and customer experience satisfaction metrics.
+
+source: [Innovation Insight for Autonomous Testing](https://www.gartner.com/doc/3992325)
+
+For more details see our [Documentation](doc/introduction.md)
+
 # Autonomous Testing Tools
 List of tools trying to achieve fully autonomous testing or at least so-called autonomous assistance
 
-# Providers / potential solutions ?
+## Providers / potential solutions ?
 
 http://www.applitools.com - currently good for visual testing / validation
 
