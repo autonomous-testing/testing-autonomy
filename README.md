@@ -210,6 +210,12 @@ https://www.eggplantsoftware.com/
 
 https://www.aifex.fr/
 
+# YT ideas
+
+https://youtu.be/R-S94tYmH04
+
+[![Autonomous Visual Regression Testing](https://img.youtube.com/vi/R-S94tYmH04/0.jpg)](https://img.youtube.com/vi/R-S94tYmH04/0.jpg)
+
 
 # Resources & interesting sources
 
