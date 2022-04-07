@@ -196,6 +196,25 @@ http://www.testmodeller.io
 
 http://www.testsigma.com
 
+https://autonomiq.io/
+
+https://www.accelq.com/
+
+https://www.functionize.com/
+
+https://testrigor.com/
+
+https://www.test.ai/
+
+https://www.testim.io/
+
+https://apptest.ai/
+
+https://www.eggplantsoftware.com/
+
+https://www.aifex.fr/
+
+
 # Resources
 
 https://medium.com/appdiff/test-autonomy-levels-7de7967d030e
