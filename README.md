@@ -217,6 +217,22 @@ https://youtu.be/R-S94tYmH04
 [![Autonomous Visual Regression Testing](https://img.youtube.com/vi/R-S94tYmH04/0.jpg)](https://youtu.be/R-S94tYmH04)
 
 
+https://youtu.be/EBtuOj9hdKc
+
+[![Autonomní testování](https://img.youtube.com/vi/EBtuOj9hdKc/0.jpg)](https://www.youtube.com/watch?v=EBtuOj9hdKc)
+
+
+https://youtu.be/Q8s8ENQLWfA
+
+[![Autonomous Testing and the Future of Software Development](https://img.youtube.com/vi/Q8s8ENQLWfA/0.jpg)](https://youtu.be/Q8s8ENQLWfA)
+
+
+https://youtu.be/Q8s8ENQLWfA
+
+[![OPENING KEYNOTE Test Automation’s Next Great Wave: Autonomous Testing](https://ewig5qf9cgn.exactdn.com/wp-content/uploads/2022/02/220224-FOT-Frameworks-EMEA-Session-Cards-831-%C3%97-542-px-768x501.jpg?strip=all&lossy=1&ssl=1)](https://applitools.com/event/opening-keynote-test-automations-next-great-wave-autonomous-testing/)
+
+
+
 # Resources & interesting sources
 
 https://medium.com/appdiff/test-autonomy-levels-7de7967d030e
