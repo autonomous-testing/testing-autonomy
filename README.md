@@ -4,8 +4,6 @@
 
 source: [Innovation Insight for Autonomous Testing](https://www.gartner.com/doc/3992325)
 
-For more details see our [Documentation](doc/introduction.md)
-
 # Autonomous Testing Tools
 List of tools trying to achieve fully autonomous testing or at least so-called autonomous assistance
 
