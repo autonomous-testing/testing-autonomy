@@ -210,6 +210,17 @@ https://www.eggplantsoftware.com/
 
 https://www.aifex.fr/
 
+## Visual testing tools
+
+https://github.com/Visual-Regression-Tracker/Visual-Regression-Tracker
+
+https://percy.io/
+
+https://github.com/rajdeepv/nakal - no autonomous testing 
+
+https://crossbrowsertesting.com/visual-testing
+
+
 # YT ideas
 
 https://youtu.be/R-S94tYmH04
