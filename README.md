@@ -196,7 +196,7 @@ http://www.testmodeller.io
 
 http://www.testsigma.com
 
-https://autonomiq.io/ - aquired by Saucelab in Feb 2021
+https://autonomiq.io/ - aquired by [Saucelab](https://saucelabs.com/platform/low-code-testing) in Feb 2021
 
 https://www.accelq.com/
 
