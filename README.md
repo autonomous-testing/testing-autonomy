@@ -210,6 +210,8 @@ https://www.eggplantsoftware.com/
 
 https://www.aifex.fr/
 
+https://dev-tools.ai/
+
 ## Visual testing tools
 
 https://github.com/Visual-Regression-Tracker/Visual-Regression-Tracker
