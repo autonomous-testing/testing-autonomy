@@ -212,6 +212,8 @@ https://www.aifex.fr/
 
 https://dev-tools.ai/
 
+https://touca.io/
+
 ## Visual testing tools
 
 https://github.com/Visual-Regression-Tracker/Visual-Regression-Tracker
