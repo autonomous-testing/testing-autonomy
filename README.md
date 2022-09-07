@@ -4,7 +4,6 @@
 
 source: [Innovation Insight for Autonomous Testing](https://www.gartner.com/doc/3992325)
 
-
 # Autonomous testing
 
 Autonomous testing applies AI- and ML-based technologies to make the testing process independent from human intervention.
@@ -160,6 +159,7 @@ Other
 - Test flow generation: see
 
 # Autonomous Testing Tools
+
 List of tools trying to achieve fully autonomous testing or at least so-called autonomous assistance
 
 ## Providers / potential solutions ?
@@ -220,10 +220,9 @@ https://github.com/Visual-Regression-Tracker/Visual-Regression-Tracker
 
 https://percy.io/
 
-https://github.com/rajdeepv/nakal - no autonomous testing 
+https://github.com/rajdeepv/nakal - no autonomous testing
 
 https://crossbrowsertesting.com/visual-testing
-
 
 # YT ideas
 
@@ -231,22 +230,76 @@ https://youtu.be/R-S94tYmH04
 
 [![Autonomous Visual Regression Testing](https://img.youtube.com/vi/R-S94tYmH04/0.jpg)](https://youtu.be/R-S94tYmH04)
 
-
 https://youtu.be/EBtuOj9hdKc
 
 [![Autonomní testování](https://img.youtube.com/vi/EBtuOj9hdKc/0.jpg)](https://www.youtube.com/watch?v=EBtuOj9hdKc)
-
 
 https://youtu.be/Q8s8ENQLWfA
 
 [![Autonomous Testing and the Future of Software Development](https://img.youtube.com/vi/Q8s8ENQLWfA/0.jpg)](https://youtu.be/Q8s8ENQLWfA)
 
-
 https://youtu.be/Q8s8ENQLWfA
 
 [![OPENING KEYNOTE Test Automation’s Next Great Wave: Autonomous Testing](https://ewig5qf9cgn.exactdn.com/wp-content/uploads/2022/02/220224-FOT-Frameworks-EMEA-Session-Cards-831-%C3%97-542-px-768x501.jpg?strip=all&lossy=1&ssl=1)](https://applitools.com/event/opening-keynote-test-automations-next-great-wave-autonomous-testing/)
 
+# Current market state
 
+## Market size and predictions
+
+![Market size and predictions](/images/Market-size-and-predictions.png)
+
+## Hype Cycle for Agile and DevOps, 2022 - Autonomous Testing
+
+Full report [here](resources/Hype-Cycle-for-Agile-and-DevOps-2022.pdf)
+
+![Hype Cycle for Agile and DevOps, 2022](/images/Hype-Cycle-for-Agile-and-DevOps-2022.png)
+
+**Analysis By:** Joachim Herschmann, Jim Scheibmeir
+
+**Benefit Rating:** High
+
+**Market Penetration:** 5% to 20% of target audience
+
+**Maturity:** Adolescent
+
+**Definition:**
+Autonomous testing comprises AI- and ML-based technologies and practices to make software testing activities independent from human intervention. It continuously improves testing outcomes by learning from the data collected from performed activities. It extends traditional test automation beyond the automated execution of test cases to include fully automated planning, creation, maintenance and analysis of tests.
+
+**Why This Is Important**
+Software engineering leaders seeking to release faster without degrading quality are looking for more efficient ways of testing, which includes all phases of the testing life cycle. As such, autonomous testing is a driver for a holistic approach to automating the broader set of quality and testing activities related to requirements quality, design quality, code quality, release quality and operational resilience in an integrated way. This increases the degree of autonomy for those activities.
+
+**Business Impact**
+The adoption of autonomous testing has the potential to significantly improve an IT organization’s ability to serve and delight its customers. It can be an enabler for adjusting testing scenarios and overall software quality parameters as part of a continuous quality initiative aimed at optimizing end-user experience. It will also help to constitute a closed-loop system that provides continuous feedback about critical quality indicators.
+
+### Drivers
+
+- A high dependency on human expertise and interaction limits how quickly modern digital businesses can design, build and test new software.
+- Where automated testing is already in place, current levels of automation often remain below expectations due to a continued dependency on human intervention in maintaining the automation as applications under test (AUT) evolve.
+- The pressure to innovate quickly for market differentiation without compromising on quality relies both on a higher velocity and a higher degree of autonomy of the related activities.
+- While delivery cycle time is decreasing, the technical complexity required to deliver a positive user experience and maintain a competitive edge is increasing. The answer is not more testing but more intelligent testing enabled by AI technologies.
+
+### Obstacles
+
+- Risk of doing nothing: Waiting until feature-complete autonomous testing solutions are available leads to a loss in competitive advantage, and reduced agility and innovation.
+- Unrealistic goals: Underestimating the time required to acquire new skills and setting wrong expectations about the time required to become successful can be obstacles.
+- Managing data quality: Gathering, cleaning and processing of data and training of the model are not trivial tasks and require adequate skills. Moreover, they are not yet autonomous processes.
+- Internal pushback: Autonomous testing requires significant investment in new areas such as data science and analytics. While this will motivate some team members, others may see the approach as a threat to their known way of working and they may be afraid to adjust.
+- Immaturity of tools: Currently available tools are still relatively new, have a narrow scope of technology coverage and still need to prove their value.
+
+### User Recommendations
+
+- Set the right expectations about where autonomous testing can provide value, what its current limitations are and what is needed for it to be successful.
+
+- Maximize the impact of autonomous testing by leveraging it as an enabler of a systematic approach to achieve the quality goals of business and development. Focus on key business value enablement and determine where it can help with revenue, cost and risk management.
+
+- Familiarize yourself with advanced analytics and ML. Invest in augmented analytics tools that employ ML algorithms to mine existing data for current and future projects.
+
+- Allocate ownership and appoint staff with the required skills such as data analytics by identifying the required roles, technologies and practices.
+
+- Select tools that best match available skills and development style by assessing application profiles and different teams’ needs.
+
+**Sample Vendors:**
+ACCELQ; Applitools; Avo Automation; Diffblue; Functionize; mabl; ProdPerfect; test.ai; testRigor
 
 # Resources & interesting sources
 
