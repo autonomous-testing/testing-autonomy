@@ -1,8 +1,20 @@
-# Autonomous testing
+# Autonomous testing - drivers
 
 > By the end of 2025, 30% of organizations will have implemented an autonomous automation strategy and will outperform competitors in quality and customer experience satisfaction metrics.
 
-Source: [Innovation Insight for Autonomous Testing, Gartner 2020](https://www.gartner.com/doc/3992325)
+Source: [Innovation Insight for Autonomous Testing, Gartner](https://www.gartner.com/doc/3992325)
+
+> Despite the acknowledged benefits of automation, less than half of QA professionals are automating more than 50% of their tests. Graphical user interface **(GUI) tests are notoriously difficult to automate, and as a result, the majority of GUI test cases are still conducted manually.** For QA teams responsible for GUI testing, 42% will run their tests via a combination of both manual and automated testing, with 31% running their tests solely via manual execution.
+
+Source: [Six Stages from Manual to Autonomous Testing, SmartBear ](https://smartbear.com/resources/ebooks/six-stages-from-manual-to-autonomous-testing/)
+
+> Implementation of an autonomous testing tool can help your company in three ways:
+>
+> - Zero / Minimal human dependence for testing: 40-70% incremental savings of QA efforts
+> - 4x faster QA cycle time with 100% test and automation coverage
+> - Zero Critical Defect Slippage to production and improved release confidence
+
+Source: [Autonomous Software Testing, Hexaware Technologies Limited](https://hexaware.com/services/digital-assurance/autonomous-software-testing/)
 
 # Autonomous testing
 
@@ -69,8 +81,8 @@ _The human is in complete control of the test activities and scripts at all time
 
 _The human writes test automation scripts that can repeatedly execute a test case, using data-driven features to cover multiple input scenarios. The *focus is on scripting and coding*, while tools such as test editors and simple capture/replay provide some assistance._
 
-- Features: TODO
-- Examples: Selenium + Java/Python/JavaScript, Cypress.io, Playwright
+- Features: Scripting tools / IDEs, recorders, code inspectors
+- Examples: Selenium + Java/Python/JavaScript, Cypress.io, Playwright, Chrome DevTools
 
 ### 2. Partially automated testing
 
@@ -83,34 +95,39 @@ _*The human enhances test automation scripts*, either coded or codeless, that we
 
 _The human defines the high-level intent of a test case for a particular business process (e.g., by visually defining the business process workflow). Tests are then executed based on this definition._
 
-- Features: TODO
-- Examples: TODO
-
-### 4. Intelligent automated testing:
+### 4. Intelligent automated testing
 
 _Testbots perform exploratory testing and generate and execute most test scenarios independently. Tests will actively run through fallback scenarios and test scripts will be automatically updated (e.g., when a test case fails because of an updated component of the application under test)._
 
-- Features: TODO
-- Examples: TODO
-
-### 5. Autonomous testing:
+### 5. Autonomous testing
 
 _No human assistance is needed and machines can evaluate an application, decide what, when, where and how testing should be performed, and summarize the results to provide a release/no-release decision based on test results_
 
-- Features: TODO
-- Examples: TODO
+# Machine Learning and Testing
 
-# Reinforcement learning
+Examples of application of Machine Learning in testing:
+
+- NLP and natural language generation research may map to test case generation.
+- Game theory and reinforcement learning may map well to the problem of discovering a system and hunting for bugs.
+
+Other
+
+- Object Recognition
+- Perceiving Application State
+- Execution sequence generation: see NPL sequence-to-sequence problem (https://en.wikipedia.org/wiki/Seq2seq) ... to generate more logical sequences of actions
+- Test flow generation: see
+
+## Reinforcement learning
 
 Execution flow might be built based on the algorithm used games to train a bot to play games https://www.youtube.com/watch?v=t1A3NTttvBA
 
-## Reinforcement learning with TensorFlow
+**Reinforcement learning with TensorFlow**
 
-https://github.com/GoogleCloudPlatform/tensorflow-without-a-phd
-https://github.com/tensorflow/agents/blob/master/docs/tutorials/1_dqn_tutorial.ipynb
-https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf
+- https://github.com/GoogleCloudPlatform/tensorflow-without-a-phd
+- https://github.com/tensorflow/agents/blob/master/docs/tutorials/1_dqn_tutorial.ipynb
+- https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf
 
-# Natural Language Processing (NLP) Based Test Automation
+## Natural Language Processing (NLP) Based Test Automation
 
 Test script development is a tedious process and updating and maintaining them for every change does not come easy. A lot of time is spent on the initial test script authoring.
 
@@ -125,7 +142,7 @@ sources:
 - https://testsigma.com/blog/natural-language-processing-nlp-based-test-automation/
 - https://www.functionize.com/blog/how-nlp-will-drive-the-future-of-software-testing/
 
-## NPL with TensorFlow
+**NPL with TensorFlow**
 
 https://www.youtube.com/playlist?list=PLQY2H8rRoyvzDbLUZkbudP-MFQZwNmU4S
 
@@ -139,85 +156,9 @@ sequence length:
 - simple solution: [padding](https://youtu.be/r9QjkdSJZ2g), or [here](https://colab.research.google.com/drive/1qDCHeK-tym0ecwAeHhz_bWeZhjOPZPj7)
 - advanced approach: [ragged tensor](https://www.tensorflow.org/guide/ragged_tensor)
 
-# ML and Testing
-
-Examples of application of the ML into testing:
-
-- NLP and natural language generation research may map to test case generation.
-- Game theory and reinforcement learning may map well to the problem of discovering a system and hunting for bugs.
-
-Other
-
-- Object Recognition
-- Perceiving Application State
-- Execution sequence generation: see NPL sequence-to-sequence problem (https://en.wikipedia.org/wiki/Seq2seq) ... to generate more logical sequences of actions
-- Test flow generation: see
-
 # Autonomous Testing Tools
 
-List of tools trying to achieve fully autonomous testing or at least so-called autonomous assistance
-
-## Providers / potential solutions ?
-
-http://www.applitools.com - currently good for visual testing / validation
-
-http://www.appvance.ai
-
-- step 1: the tool generates an application blueprint in a few minutes
-- step 2: cognitive script generation (from production log provided in e.g. csv)
-- step 3: execute test which could be functional, security or performance
-
-http://www.botium.ai - more for chatbot testing
-
-http://www.diffblue.com - more for unit testing
-
-http://www.functionize.
-
-- record & play / low-code / codeless tool
-- features: JavaScript custom coding available, DB & API connectivity, 2FA
-- code is generated by ML (NPL) from plain English
-
-http://www.mabl.com
-
-http://www.prodperfect.com - autonomous E2E software testing tool, collect data from production, generates tests and executes them
-
-http://www.sealights.io - DevOps, more focused on code, not very clear and specific on their website
-
-http://www.testcraft.io - features: recording tests, AI auto-fix for a flaky test, modeler for design tests
-
-http://www.testim.io -
-
-http://www.testmodeller.io
-
-http://www.testsigma.com
-
-https://autonomiq.io/ - acquired by [Saucelab](https://saucelabs.com/platform/low-code-testing) in Feb 2021
-
-https://www.accelq.com/
-
-https://www.functionize.com/
-
-https://testrigor.com/
-
-https://apptest.ai/
-
-https://www.eggplantsoftware.com/
-
-https://www.aifex.fr/
-
-https://dev-tools.ai/
-
-https://touca.io/
-
-## Visual testing tools
-
-https://github.com/Visual-Regression-Tracker/Visual-Regression-Tracker
-
-https://percy.io/
-
-https://github.com/rajdeepv/nakal - no autonomous testing
-
-https://crossbrowsertesting.com/visual-testing
+[List of tools](/TOOLS.md) trying to achieve fully autonomous testing or at least so-called autonomous assistance.
 
 # Video ideas
 
