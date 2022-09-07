@@ -223,7 +223,7 @@ ACCELQ; Applitools; Avo Automation; Diffblue; Functionize; mabl; ProdPerfect; te
 
 # Resources & interesting sources
 
-- [Test Autonomy Levels, Jason Arbom](https://medium.com/appdiff/test-autonomy-levels-7de7967d030e)
+- [Test Autonomy Levels, Jason Arbon](https://medium.com/appdiff/test-autonomy-levels-7de7967d030e)
 - [Innovation Insight for Autonomous Testing, Gartner](https://www.gartner.com/doc/3992325)
 - [Supervised Machine Learning: Regression and Classification, Coursera](https://www.coursera.org/learn/machine-learning)
 - [Intro to Testing Machine Learning Models, Applitools](https://testautomationu.applitools.com/testing-machine-learning-models/)
@@ -231,12 +231,7 @@ ACCELQ; Applitools; Avo Automation; Diffblue; Functionize; mabl; ProdPerfect; te
 
 ## Video ideas
 
-### EN
-
 - [(EN) Autonomous Visual Regression Testing | Marcel Veselka, Jan Beránek a Ondřej Winter](https://youtu.be/R-S94tYmH04)
 - [(EN) Autonomous Testing and the Future of Software Development](https://youtu.be/Q8s8ENQLWfA)
 - [(EN) Test Automation’s Next Great Wave: Autonomous Testing](https://applitools.com/event/opening-keynote-test-automations-next-great-wave-autonomous-testing/)
-
-### CZ
-
 - [(CZ) Autonomní testování│Ondřej Winter a Jan Beránek](https://youtu.be/EBtuOj9hdKc)
