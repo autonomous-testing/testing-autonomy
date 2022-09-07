@@ -2,7 +2,7 @@
 
 > By the end of 2025, 30% of organizations will have implemented an autonomous automation strategy and will outperform competitors in quality and customer experience satisfaction metrics.
 
-source: [Innovation Insight for Autonomous Testing](https://www.gartner.com/doc/3992325)
+Source: [Innovation Insight for Autonomous Testing, Gartner 2020](https://www.gartner.com/doc/3992325)
 
 # Autonomous testing
 
@@ -10,7 +10,7 @@ Autonomous testing applies AI- and ML-based technologies to make the testing pro
 
 ## The Path to Autonomous Testing
 
-1. Manual, human driven
+1. Manual, human-driven
 2. Automated
 3. Autonomous
 
@@ -18,11 +18,11 @@ Autonomous testing applies AI- and ML-based technologies to make the testing pro
 
 # Levels of Autonomy
 
-There are several definitions of autonomy levels: [Gartner](https://www.gartner.com/doc/reprints?id=1-25Z5AK9P&ct=210506&st=sb), [Test.ai / Jason Arbon](https://medium.com/appdiff/test-autonomy-levels-7de7967d030e), [Applitools](https://applitools.com/blog/not-only-cars-the-six-levels-of-autonomous/).
+There are several definitions of autonomy levels: [Gartner](https://www.gartner.com/doc/reprints?id=1-25Z5AK9P&ct=210506&st=sb), [Test.ai / Jason Arbon](https://medium.com/appdiff/test-autonomy-levels-7de7967d030e), [Applitools](https://applitools.com/blog/not-only-cars-the-six-levels-of-autonomous/) or [SmartBear](https://smartbear.com/resources/ebooks/six-stages-from-manual-to-autonomous-testing/).
 
-In most cases there are inspired from automotive industry. Both, the Automotive autonomy [SAE classification](https://en.wikipedia.org/wiki/Self-driving_car#SAE_Classification) and the SW autonomy testing recognize 6 levels of autonomy.
+In most cases, there are inspired by the automotive industry. Both, the Automotive autonomy [SAE classification](https://en.wikipedia.org/wiki/Self-driving_car#SAE_Classification) and the SW autonomy testing recognize 6 levels of autonomy.
 
-## Automotive autonomy (SW testing inspired by)
+## Automotive autonomy (autonomous SW testing adopted)
 
 _Human driver monitors the driving environment_
 
@@ -40,7 +40,7 @@ _Automated driving system monitors the driving environment_
 
 5. **Full Automation**: The driving mode-specific performance by an automated driving system of all aspects of the dynamic driving task under all roadway and environmental conditions that can be managed by a human driver.
 
-Some videos explaining it in simple way:
+Some videos explain it in a simple way:
 
 - BMW Fully Car Autonomous Automated Driving (LEVEL 5) https://youtu.be/GA_NKVBpcVQ
 - What are the different levels of Autonomous Vehicle? https://youtu.be/6592pKyQfyE
@@ -56,7 +56,7 @@ Gartner definition of SW Testing Autonomy Levels:
 4. Intelligent automated testing
 5. Autonomous testing
 
-## Features / functionalities required achieve autonomy levels
+## Features / functionalities required to achieve autonomy levels
 
 ### 0. Manual testing
 
@@ -95,19 +95,14 @@ _Testbots perform exploratory testing and generate and execute most test scenari
 
 ### 5. Autonomous testing:
 
-_No human assistance is needed and machines are able to evaluate an application, decide what, when, where and how testing should be performed, and summarize the results to provide a release/no-release decision based on test results_
+_No human assistance is needed and machines can evaluate an application, decide what, when, where and how testing should be performed, and summarize the results to provide a release/no-release decision based on test results_
 
 - Features: TODO
 - Examples: TODO
 
-# Current market and future potential
-
-Current estimated adoption rate of autonomous testing by Gartner (report published 28 October 2020) is less than 5% of the addressable market. The same report states that by the end of 2025, 30% of organizations will have implemented an autonomous automation strategy.
-
 # Reinforcement learning
 
-Execution flow might be built based on the algorithm used games to train bot to play games
-https://www.youtube.com/watch?v=t1A3NTttvBA
+Execution flow might be built based on the algorithm used games to train a bot to play games https://www.youtube.com/watch?v=t1A3NTttvBA
 
 ## Reinforcement learning with TensorFlow
 
@@ -119,11 +114,11 @@ https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf
 
 Test script development is a tedious process and updating and maintaining them for every change does not come easy. A lot of time is spent on the initial test script authoring.
 
-Though there are other approaches like the Record and Playback method to automation testing, NLP based testing is not only intuitively easy but reliable.
+Though there are other approaches like the Record and Playback method to automation testing, NLP-based testing is not only intuitively easy but reliable.
 
 With NLP, you can still write your own tests but without the complexities of traditional test automation.
 
-Natural language processing is an artificial intelligence specialty by which machines can identify, interpret, and generate human language. NLP arises from the intersection of many disciplines such as computational linguistics and computer science. The aim of NLP is to build machines that can approximate human language comprehension.
+Natural language processing is an artificial intelligence specialty by which machines can identify, interpret, and generate human language. NLP arises from the intersection of many disciplines such as computational linguistics and computer science. NLP aims to build machines that can approximate human language comprehension.
 
 sources:
 
@@ -146,7 +141,7 @@ sequence length:
 
 # ML and Testing
 
-Examples of application the ML into testing:
+Examples of application of the ML into testing:
 
 - NLP and natural language generation research may map to test case generation.
 - Game theory and reinforcement learning may map well to the problem of discovering a system and hunting for bugs.
@@ -168,11 +163,11 @@ http://www.applitools.com - currently good for visual testing / validation
 
 http://www.appvance.ai
 
-- step 1: the tool generates application blueprint in a few minutes
+- step 1: the tool generates an application blueprint in a few minutes
 - step 2: cognitive script generation (from production log provided in e.g. csv)
 - step 3: execute test which could be functional, security or performance
 
-http://www.botium.ai - more for chat bot testing
+http://www.botium.ai - more for chatbot testing
 
 http://www.diffblue.com - more for unit testing
 
@@ -184,11 +179,11 @@ http://www.functionize.
 
 http://www.mabl.com
 
-http://www.prodperfect.com - autonomous E2E software testing tool, collect data from production, generates tests and execute them
+http://www.prodperfect.com - autonomous E2E software testing tool, collect data from production, generates tests and executes them
 
 http://www.sealights.io - DevOps, more focused on code, not very clear and specific on their website
 
-http://www.testcraft.io - features: recording tests, AI auto-fix for flaky test, modeler for design tests
+http://www.testcraft.io - features: recording tests, AI auto-fix for a flaky test, modeler for design tests
 
 http://www.testim.io -
 
@@ -196,7 +191,7 @@ http://www.testmodeller.io
 
 http://www.testsigma.com
 
-https://autonomiq.io/ - aquired by [Saucelab](https://saucelabs.com/platform/low-code-testing) in Feb 2021
+https://autonomiq.io/ - acquired by [Saucelab](https://saucelabs.com/platform/low-code-testing) in Feb 2021
 
 https://www.accelq.com/
 
@@ -224,23 +219,17 @@ https://github.com/rajdeepv/nakal - no autonomous testing
 
 https://crossbrowsertesting.com/visual-testing
 
-# YT ideas
+# Video ideas
 
-https://youtu.be/R-S94tYmH04
+## EN
 
-[![Autonomous Visual Regression Testing](https://img.youtube.com/vi/R-S94tYmH04/0.jpg)](https://youtu.be/R-S94tYmH04)
+- [(EN) Autonomous Visual Regression Testing | Marcel Veselka, Jan Beránek a Ondřej Winter](https://youtu.be/R-S94tYmH04)
+- [(EN) Autonomous Testing and the Future of Software Development](https://youtu.be/Q8s8ENQLWfA)
+- [(EN) Test Automation’s Next Great Wave: Autonomous Testing](https://applitools.com/event/opening-keynote-test-automations-next-great-wave-autonomous-testing/)
 
-https://youtu.be/EBtuOj9hdKc
+## CZ
 
-[![Autonomní testování](https://img.youtube.com/vi/EBtuOj9hdKc/0.jpg)](https://www.youtube.com/watch?v=EBtuOj9hdKc)
-
-https://youtu.be/Q8s8ENQLWfA
-
-[![Autonomous Testing and the Future of Software Development](https://img.youtube.com/vi/Q8s8ENQLWfA/0.jpg)](https://youtu.be/Q8s8ENQLWfA)
-
-https://youtu.be/Q8s8ENQLWfA
-
-[![OPENING KEYNOTE Test Automation’s Next Great Wave: Autonomous Testing](https://ewig5qf9cgn.exactdn.com/wp-content/uploads/2022/02/220224-FOT-Frameworks-EMEA-Session-Cards-831-%C3%97-542-px-768x501.jpg?strip=all&lossy=1&ssl=1)](https://applitools.com/event/opening-keynote-test-automations-next-great-wave-autonomous-testing/)
+- [(CZ) Autonomní testování│Ondřej Winter a Jan Beránek](https://youtu.be/EBtuOj9hdKc)
 
 # Current market state
 
@@ -253,6 +242,8 @@ https://youtu.be/Q8s8ENQLWfA
 Full report [here](resources/Hype-Cycle-for-Agile-and-DevOps-2022.pdf)
 
 ![Hype Cycle for Agile and DevOps, 2022](/images/Hype-Cycle-for-Agile-and-DevOps-2022.png)
+
+[Gartner Hype Cycles, Explained](https://youtu.be/jB1RDz9jaj0)
 
 **Analysis By:** Joachim Herschmann, Jim Scheibmeir
 
@@ -316,3 +307,5 @@ https://medium.com/appdiff/test-autonomy-levels-7de7967d030e
 https://www.coursera.org/learn/machine-learning
 
 https://testautomationu.applitools.com/testing-machine-learning-models/
+
+https://smartbear.com/resources/ebooks/six-stages-from-manual-to-autonomous-testing/
