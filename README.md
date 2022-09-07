@@ -160,18 +160,6 @@ sequence length:
 
 [List of tools](/TOOLS.md) trying to achieve fully autonomous testing or at least so-called autonomous assistance.
 
-# Video ideas
-
-## EN
-
-- [(EN) Autonomous Visual Regression Testing | Marcel Veselka, Jan Beránek a Ondřej Winter](https://youtu.be/R-S94tYmH04)
-- [(EN) Autonomous Testing and the Future of Software Development](https://youtu.be/Q8s8ENQLWfA)
-- [(EN) Test Automation’s Next Great Wave: Autonomous Testing](https://applitools.com/event/opening-keynote-test-automations-next-great-wave-autonomous-testing/)
-
-## CZ
-
-- [(CZ) Autonomní testování│Ondřej Winter a Jan Beránek](https://youtu.be/EBtuOj9hdKc)
-
 # Current market state
 
 ## Market size and predictions
@@ -235,18 +223,20 @@ ACCELQ; Applitools; Avo Automation; Diffblue; Functionize; mabl; ProdPerfect; te
 
 # Resources & interesting sources
 
-https://medium.com/appdiff/test-autonomy-levels-7de7967d030e
+- [Test Autonomy Levels, Jason Arbom](https://medium.com/appdiff/test-autonomy-levels-7de7967d030e)
+- [Innovation Insight for Autonomous Testing, Gartner](https://www.gartner.com/doc/3992325)
+- [Supervised Machine Learning: Regression and Classification, Coursera](https://www.coursera.org/learn/machine-learning)
+- [Intro to Testing Machine Learning Models, Applitools](https://testautomationu.applitools.com/testing-machine-learning-models/)
+- [Six Stages from Manual to Autonomous Testing, SmartBear](https://smartbear.com/resources/ebooks/six-stages-from-manual-to-autonomous-testing/)
 
-https://www.gartner.com/doc/reprints?id=1-25Z5AK9P&ct=210506&st=sb
+## Video ideas
 
-https://www.pnsqc.org/wp-content/uploads/2018/09/38-Santiago-AI-Driven-Test-Generation.pdf
+### EN
 
-https://sersc.org/journals/index.php/IJFGCN/article/view/5815/3604
+- [(EN) Autonomous Visual Regression Testing | Marcel Veselka, Jan Beránek a Ondřej Winter](https://youtu.be/R-S94tYmH04)
+- [(EN) Autonomous Testing and the Future of Software Development](https://youtu.be/Q8s8ENQLWfA)
+- [(EN) Test Automation’s Next Great Wave: Autonomous Testing](https://applitools.com/event/opening-keynote-test-automations-next-great-wave-autonomous-testing/)
 
-https://medium.com/appdiff/test-autonomy-levels-7de7967d030e
+### CZ
 
-https://www.coursera.org/learn/machine-learning
-
-https://testautomationu.applitools.com/testing-machine-learning-models/
-
-https://smartbear.com/resources/ebooks/six-stages-from-manual-to-autonomous-testing/
+- [(CZ) Autonomní testování│Ondřej Winter a Jan Beránek](https://youtu.be/EBtuOj9hdKc)
