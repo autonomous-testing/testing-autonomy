@@ -28,6 +28,10 @@ http://www.prodperfect.com - autonomous E2E software testing tool, collect data 
 
 http://www.sealights.io - DevOps, more focused on code, not very clear and specific on their website
 
+https://appsurify.com/
+
+https://www.launchableinc.com/
+
 http://www.testcraft.io - features: recording tests, AI auto-fix for a flaky test, modeler for design tests
 
 http://www.testim.io
