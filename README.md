@@ -105,6 +105,12 @@ _No human assistance is needed and machines can evaluate an application, decide 
 
 # Machine Learning and Testing
 
+> By 2025, 70% of enterprises will have implemented an active use of AI-augmented testing, up from5% in 2021.
+
+> By 2025, organizations that ignore the opportunity to utilize AI-augmented testing will spend twiceas much effort on testing and defect remediation compared with their competitors that takeadvantage of AI.
+
+Source: [Market Guide for AI-Augmented Software Testing Tools](resources/Market-Guide-for-AI-Augmented-Software-Testing-Tools.pdf)
+
 Examples of application of Machine Learning in testing:
 
 - NLP and natural language generation research may map to test case generation.
