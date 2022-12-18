@@ -97,13 +97,11 @@ _The human defines the high-level intent of a test case for a particular busines
 
 ### 4. Intelligent automated testing
 
-
 _Intelligent automated testing involves the use of test bots to perform exploratory testing and generate and execute test scenarios independently. These tests are designed to actively run through fallback scenarios and update test scripts as needed, such as when a test case fails due to an updated component of the application under test._
 
 While test bots used as web crawlers can perform thorough testing of a web application by exploring its navigational structure, it can be difficult to turn their crawling trace into a minimal test suite that still achieves the same level of coverage. This is because test cases generated from a crawling trace may be dependent on each other and may fail when executed in isolation, and they may also be redundant, covering the same targets multiple times.
 
 See also [Dependency-Aware Web Test Generation](resources/2020-Biagiola-ICST2020-Dependency-Aware-Web-Test-Generation.pdf)
-
 
 ### 5. Autonomous testing
 
@@ -111,11 +109,15 @@ _No human assistance is needed and machines can evaluate an application, decide 
 
 # Machine Learning and Testing
 
-> By 2025, 70% of enterprises will have implemented an active use of AI-augmented testing, up from5% in 2021.
+> By 2025, 70% of enterprises will have implemented an active use of AI-augmented testing, up from 5% in 2021.
 
 > By 2025, organizations that ignore the opportunity to utilize AI-augmented testing will spend twiceas much effort on testing and defect remediation compared with their competitors that takeadvantage of AI.
 
-Source: [Market Guide for AI-Augmented Software Testing Tools](resources/Market-Guide-for-AI-Augmented-Software-Testing-Tools.pdf)
+Source: [Market Guide for AI-Augmented Software Testing Tools, 2021](resources/2021-Market-Guide-for-AI-Augmented-Software-Testing-Tools.pdf)
+
+> By 2027, 80% of enterprises will have integrated artificial intelligence (AI)-augmented testing tools into their software engineering toolchain, which is a significant increase from 10% in 2022.
+
+Source: [Market Guide for AI-Augmented Software Testing Tools, 2022](resources/2022-Market-Guide-for-AI-Augmented-Software-Testing-Tools.pdf)
 
 Examples of application of Machine Learning in testing:
 
@@ -177,6 +179,11 @@ sequence length:
 ## Market size and predictions
 
 ![Market size and predictions](/images/Market-size-and-predictions.png)
+
+> The testing tool market (excluding mainframe testing) segment is $2,319.7 million, which is expected to increase at a 7.5% compound annual growth rate (CAGR) in constant currency through 2026.
+> There is strong interest in the AI- augmented testing tools market from investors — the vendors in this research have received private investments of more than $300 million since 2020.
+
+Source: [Market Guide for AI-Augmented Software Testing Tools, 2022](resources/2022-Market-Guide-for-AI-Augmented-Software-Testing-Tools.pdf)
 
 ## Hype Cycle for Agile and DevOps, 2022 - Autonomous Testing
 
