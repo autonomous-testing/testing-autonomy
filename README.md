@@ -97,7 +97,13 @@ _The human defines the high-level intent of a test case for a particular busines
 
 ### 4. Intelligent automated testing
 
-_Testbots perform exploratory testing and generate and execute most test scenarios independently. Tests will actively run through fallback scenarios and test scripts will be automatically updated (e.g., when a test case fails because of an updated component of the application under test)._
+
+_Intelligent automated testing involves the use of test bots to perform exploratory testing and generate and execute test scenarios independently. These tests are designed to actively run through fallback scenarios and update test scripts as needed, such as when a test case fails due to an updated component of the application under test._
+
+While test bots used as web crawlers can perform thorough testing of a web application by exploring its navigational structure, it can be difficult to turn their crawling trace into a minimal test suite that still achieves the same level of coverage. This is because test cases generated from a crawling trace may be dependent on each other and may fail when executed in isolation, and they may also be redundant, covering the same targets multiple times.
+
+See also [Dependency-Aware Web Test Generation](resources/2020-Biagiola-ICST2020-Dependency-Aware-Web-Test-Generation.pdf)
+
 
 ### 5. Autonomous testing
 
@@ -226,6 +232,16 @@ The adoption of autonomous testing has the potential to significantly improve an
 
 **Sample Vendors:**
 ACCELQ; Applitools; Avo Automation; Diffblue; Functionize; mabl; ProdPerfect; test.ai; testRigor
+
+## The Forrester Wave™: Continuous Automation Testing Platforms, Q4 2022
+
+> All testers must be enabled to easily combine different types of testing and automate end-to-end.
+
+TuringBots, coined by Forrester, are AI-powered software that can help software developers and entire development teams plan, design, build, test, and deploy application code.
+
+TuringBots are featured in Forrester’s top 10 technology trends of 2022 because we believe that they are giving birth to a new generation of software development.
+
+Full report [here](resources/The-Forrester-Wave_Continuous-Automation-Testing-Platforms-Q4-2022.pdf)
 
 # Resources & interesting sources
 
