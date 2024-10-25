@@ -193,6 +193,10 @@ Full report [here](resources/Hype-Cycle-for-Agile-and-DevOps-2022.pdf)
 
 [Gartner Hype Cycles, Explained](https://youtu.be/jB1RDz9jaj0)
 
+## Hype Cycle for AI in Software Engineering, 2024
+
+Full report [here](resources/Hype-Cycle-for-AI-in-SW-Engineering-2024.pdf)
+
 **Analysis By:** Joachim Herschmann, Jim Scheibmeir
 
 **Benefit Rating:** High
