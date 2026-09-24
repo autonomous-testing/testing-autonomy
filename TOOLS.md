@@ -48,6 +48,8 @@ https://www.functionize.com/
 
 https://testrigor.com/
 
+https://github.com/vostride/agent-qa - self-improving QA agent for natural-language web and mobile tests
+
 https://apptest.ai/
 
 https://www.eggplantsoftware.com/
